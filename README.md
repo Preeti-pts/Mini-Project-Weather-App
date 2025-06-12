@@ -1,6 +1,6 @@
 <h1># 🌤️ Weather App - Angular Project</h1>
 
-<h3>This is a modern weather application built with **Angular 20**.as part of the CodeFirst Technology Mini Project Challenge.<br>
+<h3>This is a modern weather application built with **Angular 20**. as part of the CodeFirst Technology Mini Project Challenge.<br>
 It allows users to search for and view real-time weather data for cities across the globe.
 <br>
 The app fetches data from a weather API (such as **OpenWeatherMap**) and presents it with a clean, responsive UI. It’s a beginner-friendly Angular project that demonstrates component-based architecture, API integration, and form handling.</h3>
